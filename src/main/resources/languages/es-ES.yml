@@ -79,4 +79,4 @@ help_admin:
   - "    &2/sr drop <player> &7- &fDrops player skin data."
   - "    &2/sr clear <player> &7- &fClears player data."
   - "    &2/sr reload &7- &fReloads the config and locale"
-  - "    &2/sr props [player] &7- &fDisplays the players actual skin as properties"
+  - "    &2/sr props [player] &7- &fDisplays the players actual skin as properties" 
